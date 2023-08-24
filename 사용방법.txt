@@ -1,0 +1,4 @@
+root@jammy:~/python# ls
+CH341SER  Lane_birdseye.mp4  cam.py     camcarf.py  gpiof.py         gpiosinal.mp4  lane.py        mo.py   output.avi  rc.py   servo.py             switch.py
+Lane.mp4  birdeye.py         camcar.py  car.py      gpiosignalf.mp4  joi.py         lanedetec.mp4  mo2.py  pwm2.py     rcf.py  signalopencvtest.py
+root@jammy:~/python# python3 camcarf.py
